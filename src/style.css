@@ -1,0 +1,12 @@
+form {
+  margin-top: 50px;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 60%;
+}
+
+.final-result {
+  font-size: 22px;
+}
